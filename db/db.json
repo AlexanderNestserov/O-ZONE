@@ -1,6 +1,7 @@
 {
 	"goods": [
 		{
+			"id": 0,
 			"title": "Игровая приставка Sony PlayStation 4 Pro",
 			"price": 33990,
 			"sale": false,
@@ -9,6 +10,7 @@
 			"category": "Игровая приставка"
 		},
 		{
+			"id": 1,
 			"title": "Игровая приставка Sony PlayStation 3 Super Slim",
 			"price": 16499,
 			"sale": true,
@@ -17,6 +19,7 @@
 			"category": "Игровая приставка"
 		},
 		{
+			"id": 2,
 			"title": "Игровая приставка Xbox One X",
 			"price": 39990,
 			"sale": false,
@@ -24,6 +27,7 @@
 			"category": "Игровая приставка"
 		},
 		{
+			"id": 3,
 			"title": "Игровая приставка Xbox One S",
 			"price": 23411,
 			"sale": true,
@@ -32,6 +36,7 @@
 			"category": "Игровая приставка"
 		},
 		{
+			"id": 4,
 			"title": "Игровая приставка Nintendo Switch",
 			"price": 24751,
 			"sale": false,
@@ -40,6 +45,7 @@
 			"category": "Игровая приставка"
 		},
 		{
+			"id": 5,
 			"title": "Игровая приставка Sega Retro Genesis HD",
 			"price": 3624,
 			"sale": true,
@@ -48,6 +54,7 @@
 			"category": "Игровая приставка"
 		},
 		{
+			"id": 6,
 			"title": "Игровая приставка Dendy Junior",
 			"price": 1551,
 			"sale": true,
@@ -56,6 +63,7 @@
 			"category": "Игровая приставка"
 		},
 		{
+			"id": 7,
 			"title": "Игровая приставка Sony PlayStation Classic",
 			"price": 10445,
 			"sale": false,
@@ -64,6 +72,7 @@
 			"category": "Игровая приставка"
 		},
 		{
+			"id": 8,
 			"title": "Клавиатура Logitech Wireless Keyboard K360",
 			"price": 2390,
 			"sale": false,
@@ -72,6 +81,7 @@
 			"category": "Периферия для ПК"
 		},
 		{
+			"id": 9,
 			"title": "Клавиатура Defender Element HB-195",
 			"price": 566,
 			"sale": true,
@@ -80,6 +90,7 @@
 			"category": "Периферия для ПК"
 		},
 		{
+			"id": 10,
 			"title": "Игровая клавиатура Steelseries Apex M750- RU",
 			"price": 12848,
 			"sale": true,
@@ -88,6 +99,7 @@
 			"category": "Периферия для ПК"
 		},
 		{
+			"id": 11,
 			"title": "Мышь + коврик A4Tech Bloody V7M+B-071",
 			"price": 1649,
 			"sale": false,
@@ -96,6 +108,7 @@
 			"category": "Периферия для ПК"
 		},
 		{
+			"id": 12,
 			"title": "Мышь Trust Varo",
 			"price": 1097,
 			"sale": true,
@@ -104,6 +117,7 @@
 			"category": "Периферия для ПК"
 		},
 		{
+			"id": 13,
 			"title": "Мышь Genius DX-120",
 			"price": 350,
 			"sale": false,
@@ -112,6 +126,7 @@
 			"category": "Периферия для ПК"
 		},
 		{
+			"id": 14,
 			"title": "Коврик для мыши Orico MPA9040",
 			"price": 1279,
 			"sale": true,
@@ -120,6 +135,7 @@
 			"category": "Периферия для ПК"
 		},
 		{
+			"id": 15,
 			"title": "Коврик для мыши Trust GXT 760 Glide RGB",
 			"price": 4959,
 			"sale": false,
@@ -127,6 +143,7 @@
 			"category": "Периферия для ПК"
 		},
 		{
+			"id": 16,
 			"title": "Метро: Исход",
 			"price": 1479,
 			"sale": true,
@@ -134,6 +151,7 @@
 			"category": "Игры и софт"
 		},
 		{
+			"id": 17,
 			"title": "Darksiders III. Коллекционное издание",
 			"price": 3990,
 			"sale": false,
@@ -142,6 +160,7 @@
 			"category": "Игры и софт"
 		},
 		{
+			"id": 18,
 			"title": "Mortal Kombat X",
 			"price": 1076,
 			"sale": false,
@@ -149,6 +168,7 @@
 			"category": "Игры и софт"
 		},
 		{
+			"id": 19,
 			"title": "Microsoft Windows 10 Home (32/64-bit)",
 			"price": 9412,
 			"sale": false,
@@ -157,6 +177,7 @@
 			"category": "Игры и софт"
 		},
 		{
+			"id": 20,
 			"title": "1С:Предприятие 8.3. Версия для обучения программированию",
 			"price": 560,
 			"sale": true,
@@ -164,6 +185,7 @@
 			"category": "Игры и софт"
 		},
 		{
+			"id": 21,
 			"title": "ABBYY FotoTranslate",
 			"price": 805,
 			"sale": false,
@@ -171,6 +193,7 @@
 			"category": "Игры и софт"
 		},
 		{
+			"id": 22,
 			"title": "Destiny (Xbox 360)",
 			"price": 723,
 			"sale": true,
@@ -178,6 +201,7 @@
 			"category": "Игры и софт"
 		},
 		{
+			"id": 23,
 			"title": "Игра Onrush (PS4 Sony)",
 			"price": 1794,
 			"sale": true,

@@ -1,5 +1,7 @@
 import cart from '../src/modules/cart';
-import second from '../src/modules/second';
+import load from '../src/modules/load';
+import search from '../src/modules/search';
 
 cart();
-second();
+load();
+search();
