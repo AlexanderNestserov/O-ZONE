@@ -3,12 +3,11 @@ import renderGoods from "./renderGoods";
 import { searchFilters } from "./filters";
 
 const search = () => {
-   const searchInput = document.querySelector('.search-wrapper_input');
+   const searchInput = document.querySelector('input[type=text]');
 
    searchInput.addEventListener('input', (e) => {
-      e.preventDefault();
-      const val = e.target.value;
-      console.log(val);
+
+      let val = e.target.value;
       getData().then((data) => {
          renderGoods(searchFilters(data, val));
       });

@@ -13,12 +13,6 @@ const cart = () => {
          cartModal.style.display = "none";
       }
    });
-   document.addEventListener('keydown', (e) => {
-      e.preventDefault();
-      if (e.key == 'Escape') {
-         cartModal.style.display = "none";
-      }
-   });
 }
 
 export default cart;
