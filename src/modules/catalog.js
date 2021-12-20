@@ -9,6 +9,7 @@ const catalog = () => {
    const catalogModalItems = document.querySelectorAll('.catalog li');
 
 
+
    let isOpen = false;
 
    btnCatalog.addEventListener('click', () => {
